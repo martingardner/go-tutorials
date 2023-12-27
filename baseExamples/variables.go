@@ -11,7 +11,7 @@ func main() {
 
 	b = 3
 	fmt.Println(b)
-
+	//if you revalue d to something other than a boolean it will break
 	var d = true
 	fmt.Println(d)
 
