@@ -9,6 +9,9 @@ func main() {
 	var b,c int = 1,2
 	fmt.Println(b,c)
 
+	b = 3
+	fmt.Println(b)
+
 	var d = true
 	fmt.Println(d)
 
