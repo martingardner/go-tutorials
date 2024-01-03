@@ -4,4 +4,4 @@ from go docs
 ```https://gobyexample.com/```
 
 current point
-https://gobyexample.com/channel-buffering
+https://gobyexample.com/channel-directions
