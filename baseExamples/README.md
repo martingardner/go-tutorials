@@ -4,4 +4,4 @@ from go docs
 ```https://gobyexample.com/```
 
 current point
-https://gobyexample.com/closing-channels
+https://gobyexample.com/rate-limiting
