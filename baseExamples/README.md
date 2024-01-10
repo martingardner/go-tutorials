@@ -4,4 +4,4 @@ from go docs
 ```https://gobyexample.com/```
 
 current point
-https://gobyexample.com/string-functions
+https://gobyexample.com/text-templates
