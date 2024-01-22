@@ -4,4 +4,4 @@ from go docs
 ```https://gobyexample.com/```
 
 current point
-https://gobyexample.com/text-templates
+https://gobyexample.com/regular-expressions
